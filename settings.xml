@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+	<localRepository>/home/vicent/.m2/repository</localRepository> 
+	<servers>
+		<server>
+			<id>vicent.Bellver</id>
+			<username>alumne</username> 
+			<password>alumne</password>
+		</server>
+	</servers>
+</settings>
